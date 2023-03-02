@@ -1,0 +1,18 @@
+Link download do Git: https://git-scm.com/downloads
+
+Git Bash = terminal cli para utilizarmos o git.
+
+Comandos para configurar o git:
+	1- git config --list 
+	2- git config --global user.name "NOME"  -> Alterar o nome
+	3- git config --global user.email "EMAIL"  -> Alterar email
+
+Comando importante:
+	ls -> serve para mostrar os arquivos da pasta
+	cd + caminho -> serve para navergarmos por dentro das pastas pelo terminal
+
+Passos depois que estiver com as mudanças feitas:
+	1- git status para vermos as mudanças
+	2- git add .
+	3- git commit -m "a mudança feita"
+	4- git push origin main

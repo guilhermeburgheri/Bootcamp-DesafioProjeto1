@@ -1,4 +1,5 @@
-# Desafio de Projeto sobre Git/GitHub
+# Desafio de Projeto sobre Git/GitHub :computer:
+
 Repositório criado para o Desafio de projeto.
 
 ## Links Úteis
